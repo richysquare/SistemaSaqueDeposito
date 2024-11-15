@@ -1,0 +1,4 @@
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.AssemblyInfoInputs.cache
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.AssemblyInfo.cs
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.csproj.CoreCompileInputs.cache
