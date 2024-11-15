@@ -16,7 +16,14 @@ namespace SaqueDeposito.Entities
             LoanLimit = loanlimit;
         }
 
-        public void Loan(double amoint)
+        public void Loan(double amount)
+        {
+            if (amount <= LoanLimit)
+            {
+                Balance += amount; 
+            }
+
+        }
 
     
     }
