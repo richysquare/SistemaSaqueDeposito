@@ -38,9 +38,9 @@
               "Title": "SavingsAccount.cs",
               "DocumentMoniker": "C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Entities\\SavingsAccount.cs",
               "RelativeDocumentMoniker": "SaqueDeposito\\Entities\\SavingsAccount.cs",
-              "ToolTip": "C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Entities\\SavingsAccount.cs",
-              "RelativeToolTip": "SaqueDeposito\\Entities\\SavingsAccount.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBoAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Entities\\SavingsAccount.cs*",
+              "RelativeToolTip": "SaqueDeposito\\Entities\\SavingsAccount.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T12:44:53.146Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "SaqueDeposito\\Entities\\BusinessAccount.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T05:17:34.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T05:17:34.735Z"
             },
             {
               "$type": "Document",
@@ -78,7 +77,7 @@
               "RelativeDocumentMoniker": "SaqueDeposito\\Entities\\Account.cs",
               "ToolTip": "C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Entities\\Account.cs",
               "RelativeToolTip": "SaqueDeposito\\Entities\\Account.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T04:47:52.421Z",
               "EditorCaption": ""
@@ -93,8 +92,7 @@
               "RelativeToolTip": "SaqueDeposito\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T04:45:17.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T04:45:17.808Z"
             }
           ]
         }

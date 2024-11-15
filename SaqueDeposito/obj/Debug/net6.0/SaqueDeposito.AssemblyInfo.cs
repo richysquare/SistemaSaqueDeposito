@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaqueDeposito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4ed88d7fa7a3b048fe7350296ead40bf82061f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0154f7b71139c0007701a7d892c7249cd9b3330d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaqueDeposito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaqueDeposito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
