@@ -2,3 +2,14 @@ C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueD
 C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.AssemblyInfoInputs.cache
 C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.AssemblyInfo.cs
 C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.csproj.CoreCompileInputs.cache
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\bin\Debug\net6.0\SaqueDeposito.exe
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\bin\Debug\net6.0\SaqueDeposito.deps.json
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\bin\Debug\net6.0\SaqueDeposito.runtimeconfig.json
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\bin\Debug\net6.0\SaqueDeposito.dll
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\bin\Debug\net6.0\SaqueDeposito.pdb
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.sourcelink.json
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.dll
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\refint\SaqueDeposito.dll
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.pdb
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\SaqueDeposito.genruntimeconfig.cache
+C:\Users\Intel Core I3\Documents\Udemy\C#\API\SaqueDeposito\SaqueDeposito\SaqueDeposito\obj\Debug\net6.0\ref\SaqueDeposito.dll
