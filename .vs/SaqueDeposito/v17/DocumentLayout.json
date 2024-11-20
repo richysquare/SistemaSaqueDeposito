@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|c:\\users\\intel core i3\\documents\\udemy\\c#\\api\\saquedeposito\\saquedeposito\\saquedeposito\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|solutionrelative:saquedeposito\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Entities\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SaqueDeposito\\Entities\\SavingsAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|c:\\users\\intel core i3\\documents\\udemy\\c#\\api\\saquedeposito\\saquedeposito\\saquedeposito\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|solutionrelative:saquedeposito\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SaqueDeposito\\SaqueDeposito.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|c:\\users\\intel core i3\\documents\\udemy\\c#\\api\\saquedeposito\\saquedeposito\\saquedeposito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|solutionrelative:saquedeposito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Entities\\BusinessAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SaqueDeposito\\Entities\\BusinessAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|c:\\users\\intel core i3\\documents\\udemy\\c#\\api\\saquedeposito\\saquedeposito\\saquedeposito\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|solutionrelative:saquedeposito\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Entities\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SaqueDeposito\\Entities\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|c:\\users\\intel core i3\\documents\\udemy\\c#\\api\\saquedeposito\\saquedeposito\\saquedeposito\\saquedeposito.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AE4CB16E-538A-4BDC-8C93-55F7B7B0E59C}|SaqueDeposito\\SaqueDeposito.csproj|solutionrelative:saquedeposito\\saquedeposito.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SaqueDeposito\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SaqueDeposito.csproj",
               "DocumentMoniker": "C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito.csproj",
               "RelativeDocumentMoniker": "SaqueDeposito\\SaqueDeposito.csproj",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BusinessAccount.cs",
               "DocumentMoniker": "C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Entities\\BusinessAccount.cs",
               "RelativeDocumentMoniker": "SaqueDeposito\\Entities\\BusinessAccount.cs",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "SaqueDeposito\\Entities\\Account.cs",
@@ -79,12 +79,11 @@
               "RelativeToolTip": "SaqueDeposito\\Entities\\Account.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T04:47:52.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T04:47:52.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Intel Core I3\\Documents\\Udemy\\C#\\API\\SaqueDeposito\\SaqueDeposito\\SaqueDeposito\\Program.cs",
               "RelativeDocumentMoniker": "SaqueDeposito\\Program.cs",
